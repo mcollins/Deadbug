@@ -1,0 +1,19 @@
+/* overrides firebug icon with deadbug icon */
+#fbStatusIcon.deadbug {
+    list-style-image: url(chrome://deadbug/content/fb_dead_logo1_transparent.png);
+}
+
+#fbStatusIcon.deadbug[suspended="suspended"] {
+    list-style-image: url(chrome://deadbug/content/fb_dead_logo1_transparent.png);
+}
+
+#fbStatusIcon.deadbug[script="on"] {
+    list-style-image: url(chrome://firebug/skin/firebug16.png);
+}
+#fbStatusIcon.deadbug[net="on"] {
+    list-style-image: url(chrome://firebug/skin/firebug16.png);
+}
+#fbStatusIcon.deadbug[console="on"] {
+    list-style-image: url(chrome://firebug/skin/firebug16.png);
+}
+

@@ -1,0 +1,3 @@
+content deadbug content/deadbug/
+
+overlay chrome://firebug/content/browserOverlay.xul chrome://deadbug/content/deadbug.xul
