@@ -1,0 +1,1 @@
+Deadbug modifies the Firebug status bar icon to change to an image of an upside down (i.e. 'dead') bug when Firebug is turned off. This allows people who are colorblind or have low-contrast displays to easily tell whether Firebug is active. 
