@@ -3,5 +3,6 @@
 <?xml-stylesheet href="chrome://deadbug/content/deadbug.css"?>
 
 <overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<toolbarbutton id="firebug-button" class="deadbug"/>
 	<image id="fbStatusIcon" class="deadbug" tooltiptext="Firebug"/>
 </overlay>
